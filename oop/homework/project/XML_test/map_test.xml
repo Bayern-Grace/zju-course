@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Serialization>
+    <std_map size="3">
+        <std_pair>
+            <key val="wa"/>
+            <value val="1"/>
+        </std_pair>
+        <std_pair>
+            <key val="wawa"/>
+            <value val="2"/>
+        </std_pair>
+        <std_pair>
+            <key val="wawawa"/>
+            <value val="3"/>
+        </std_pair>
+    </std_map>
+</Serialization>

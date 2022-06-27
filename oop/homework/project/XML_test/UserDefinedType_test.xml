@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Serialization>
+    <std_vector size="3">
+        <double val="3.14"/>
+        <double val="4.5"/>
+        <double val="4.5"/>
+    </std_vector>
+    <int val="9"/>
+    <std_string val="tzh"/>
+</Serialization>

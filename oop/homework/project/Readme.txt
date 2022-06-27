@@ -1,0 +1,10 @@
+bin_Serialization中为二进制序列化与反序列化的实现和测试代码
+bin_test中为其测试结果
+XML_Serialization中为XML序列化与反序列化的实现和测试代码
+XML_test中为其测试结果
+
+由于命名空间和文件路径等原因，对二进制和XML分别写了测试代码，测试数据一样，仅格式不同
+对于每个test，a为被序列化的值，b为反序列化出的值
+bin_Serialization和XML_Serialization均提供了Makefile文件
+
+注：对于long类型，由于32位和64位系统上的长度不同，故代码中其实际类型为long long，但是函数名仍为long

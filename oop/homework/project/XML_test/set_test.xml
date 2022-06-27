@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Serialization>
+    <std_set size="4">
+        <double val="-5.67"/>
+        <double val="1.23"/>
+        <double val="2.34"/>
+        <double val="3.14"/>
+    </std_set>
+</Serialization>

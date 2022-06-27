@@ -1,0 +1,5 @@
+8014 tzh 3 Chinese 100 Maths 70 English 85
+2313 zym 4 Chinese 80 Maths 100 English 90 Computer 95
+3894 lyy 4 Geography 60 Computer 70 History 95 Medicine 80
+4862 zsr 1 Art 95
+2516 zyj 6 Chinese 90 Computer 100 English 90 Art 95 Maths 85 History 80

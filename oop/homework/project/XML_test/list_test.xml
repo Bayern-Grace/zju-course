@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Serialization>
+    <std_list size="3">
+        <std_string val="abc"/>
+        <std_string val="def"/>
+        <std_string val="ghijk"/>
+    </std_list>
+</Serialization>
